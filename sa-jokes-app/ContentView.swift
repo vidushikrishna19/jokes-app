@@ -86,7 +86,7 @@ struct ContentView: View {
         }
         .alert("Did you like the last joke?", isPresented: $isFeedbackPresented) {
             Button("😍") {
-                print("good")
+                print("u are a sigma king")
                 isPositive = true
                 displaySheet = true
             }
